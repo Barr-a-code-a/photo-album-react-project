@@ -1,10 +1,11 @@
 .App {
   display:grid;
   grid-template-columns: repeat(3, 350px );
+  margin: 8%;
   text-align: center;
 }
 
-body {text-align: center;}
+
 
 .Album { 
   
